@@ -1,0 +1,1 @@
+export default function Page(){return <main style={{padding:20}}>Sistema listo para conectar a Supabase.</main>}
